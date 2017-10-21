@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "HelloWorld\OnlineShop.csproj", "{F2BC26AA-8BE1-4184-9170-59B23592FBFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "OnlineShop\OnlineShop.csproj", "{F2BC26AA-8BE1-4184-9170-59B23592FBFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Tests", "HelloWorld.Tests\OnlineShop.Tests.csproj", "{B00F526A-D2DC-45AF-A045-6799CB6FCF90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Tests", "OnlineShop.Tests\OnlineShop.Tests.csproj", "{B00F526A-D2DC-45AF-A045-6799CB6FCF90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

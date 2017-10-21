@@ -106,7 +106,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorld\OnlineShop.csproj">
+    <ProjectReference Include="..\OnlineShop\OnlineShop.csproj">
       <Project>{F2BC26AA-8BE1-4184-9170-59B23592FBFB}</Project>
       <Name>OnlineShop</Name>
     </ProjectReference>
